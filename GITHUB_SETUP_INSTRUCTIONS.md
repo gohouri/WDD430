@@ -34,13 +34,13 @@ Both projects are now ready to be pushed to GitHub! Follow these step-by-step in
 2. **Push Next.js Dashboard:**
    ```bash
    cd nextjs-dashboard
-   git remote add origin https://github.com/YOUR_USERNAME/nextjs-dashboard-tutorial.git
+   git remote add origin https://github.com/gohouri/nextjs-dashboard-tutorial.git
    git branch -M main
    git push -u origin main
    ```
 
 3. **For Canvas Submission:**
-   - Repository URL: `https://github.com/YOUR_USERNAME/nextjs-dashboard-tutorial`
+   - Repository URL: `https://github.com/gohouri/nextjs-dashboard-tutorial`
 
 ### For React Todo App
 
@@ -56,7 +56,7 @@ Both projects are now ready to be pushed to GitHub! Follow these step-by-step in
 2. **Push React Todo App:**
    ```bash
    cd react-todo-app
-   git remote add origin https://github.com/YOUR_USERNAME/react-todo-app.git
+   git remote add origin https://github.com/gohouri/react-todo-app.git
    git branch -M main
    git push -u origin main
    ```
@@ -78,7 +78,7 @@ If you prefer to keep both projects in one repository:
    git init
    git add .
    git commit -m "Initial commit - React Todo App and Next.js Dashboard"
-   git remote add origin https://github.com/YOUR_USERNAME/wdd430-projects.git
+   git remote add origin https://github.com/gohouri/wdd430-projects.git
    git branch -M main
    git push -u origin main
    ```
@@ -124,7 +124,7 @@ For your Next.js assignment, submit a document containing:
 
 ### ✅ Required Items:
 1. **GitHub Repository URL**: 
-   - `https://github.com/YOUR_USERNAME/nextjs-dashboard-tutorial`
+   - `https://github.com/gohouri/nextjs-dashboard-tutorial`
    
 2. **Screenshot**: 
    - Shows working navigation tabs
